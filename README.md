@@ -21,7 +21,7 @@ python setup.py install
 
 ### build_imfinput
 
-Script to download solar wind observations from the OMNI datset (https://omniweb.gsfc.nasa.gov/) for a specified time period and compile them into an IMF input file for SWMF.
+Script that downloads solar wind observations from the OMNI datset (https://omniweb.gsfc.nasa.gov/) for a specified time period and compiles them into an IMF input file for SWMF.
 
 Example:
 
