@@ -7,8 +7,9 @@ swmf_validation provides functions that are useful for validating SWMF output wi
 ### Prerequisites
 
 - python 2.7
-- matplotlib
 - scipy
+- spacepy
+- cdaweb
 
 ### Installing
 
