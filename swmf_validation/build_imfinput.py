@@ -1,6 +1,6 @@
 from spacepy.pybats import ImfInput
 from cdaweb import get_cdf
-from prediction_metrics.metrics import interp_timeseries
+from swmf_validation.metrics import interp_timeseries
 from datetime import datetime
 import dateutil
 import numpy as np

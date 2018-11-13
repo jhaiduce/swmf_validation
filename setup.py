@@ -10,7 +10,9 @@ setup(
     zip_safe=True,
     packages=find_packages(),
     install_requires=[
-          'scipy',
+        'scipy',
+        'spacepy',
+        'cdaweb'
       ],
     name='swmf_validation'
 )
